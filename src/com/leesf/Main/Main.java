@@ -18,7 +18,7 @@ public class Main {
      //您的邮箱用户名
      mailInfo.setUserName("leesf456@126.com");  
      //您的邮箱密码   
-     mailInfo.setPassword("lishaofeng456"); 
+     mailInfo.setPassword("*****"); 
      //发送邮件源地址
      mailInfo.setFromAddress("leesf456@126.com");   
      //发送邮件目的地址
